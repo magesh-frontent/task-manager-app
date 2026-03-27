@@ -18,7 +18,7 @@ A clean and user-friendly **Task Manager Web Application** built using **HTML, C
 
 ## 📸 Screenshot
 
-![Task Manager Screenshot](./screenshot.png)
+![Task Manager Screenshot](./Screenshot.png)
 
 ---
 
