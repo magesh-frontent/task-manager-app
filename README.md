@@ -73,7 +73,7 @@ task-manager-app/
 
 ## 👨‍💻 Author
 
-**Magesh Balu**
+**Magesh**
 
 ---
 
